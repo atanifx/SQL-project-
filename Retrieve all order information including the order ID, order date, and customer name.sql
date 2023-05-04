@@ -1,0 +1,1 @@
+SELECT order_id, order_date, customer_name FROM orders;

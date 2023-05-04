@@ -1,0 +1,1 @@
+SELECT product_name, unit_price,quantity_available FROM products;

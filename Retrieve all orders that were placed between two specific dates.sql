@@ -1,0 +1,1 @@
+ SELECT *FROM ebussiness.orders WHERE order_date BETWEEN '2022-01-01' AND '2022-07-06'
